@@ -26,3 +26,5 @@
 - 当初最想做的功能是很多 UI 效果，比如说通过拖拽实现对某件 Event 的重要性调整
 - 点击一个 Event 可以关联到 md 笔记上
 - 此外，Obsidian 的功能还可以继续开发，已经逐步替代了我以前用的 XMmind、Zetero、ToDo 清单了
+
+当时测试过 Electron + React 的方案，主要想用 Ant Design + Umi 的，如今来看这个方案可能不好用，可以用 AI 自己实现，才能满足定制 UI 的需求
